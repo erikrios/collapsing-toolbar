@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CollapsingToolbar</string>
+    <string name="app_name">Collapsing Toolbar</string>
+    <string name="nature_image">Nature Image</string>
 </resources>
